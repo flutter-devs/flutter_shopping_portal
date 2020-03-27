@@ -8,9 +8,6 @@ A flutter app to showcase online shopping portal using Provider architecture. Fi
 
 
 # iOS Screens
-<img height="480px" src="hhttps://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen1.png">
-<img height="480px" src="hhttps://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen2.png">
-<img height="480px" src="hhttps://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen3.png">
-<img height="480px" src="hhttps://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen4.png">
-<img height="480px" src="hhttps://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen5.png">
+<img height="480px" src="https://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen1.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen2.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen3.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen4.png"> <img height="480px" src="https://github.com/flutter-devs/flutter_shopping_portal/blob/master/assets/screens/ios/screen5.png">
+
 
