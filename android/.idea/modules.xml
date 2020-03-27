@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.4+2/android/cloud_firestore.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.4+2/android/cloud_firestore.iml" group="android/cloud_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/android/cloud_firestore_web.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/android/cloud_firestore_web.iml" group="android/cloud_firestore_web" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.3/android/firebase_auth.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.3/android/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2/android/firebase_auth_web.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2/android/firebase_auth_web.iml" group="android/firebase_auth_web" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4/android/firebase_core.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.4/android/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/android/firebase_core_web.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/android/firebase_core_web.iml" group="android/firebase_core_web" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.3/android/firebase_storage.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.3/android/firebase_storage.iml" group="android/firebase_storage" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.6+3/android/shared_preferences.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.6+3/android/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+6/android/shared_preferences_macos.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+6/android/shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/android/shared_preferences_web.iml" filepath="$PROJECT_DIR$/../../../SDK/FlutterSDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+4/android/shared_preferences_web.iml" group="android/shared_preferences_web" />
+    </modules>
+  </component>
+</project>

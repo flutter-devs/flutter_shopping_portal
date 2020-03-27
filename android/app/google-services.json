@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812637154023",
+    "firebase_url": "https://friendly-shopping-f031c.firebaseio.com",
+    "project_id": "friendly-shopping-f031c",
+    "storage_bucket": "friendly-shopping-f031c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812637154023:android:beb991e6e1f7878e02d042",
+        "android_client_info": {
+          "package_name": "com.aeologic.friendlyshoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812637154023-5gha3hthkl2vegi3acrm3qrl7c64bj5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzkVezNfFGtYa8Nmpfb3vqA4-OD393O3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812637154023-5gha3hthkl2vegi3acrm3qrl7c64bj5g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "812637154023-c84andcs1gj9tplhtiskftvtt284me61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.successive.adhoc.friendlyshoppingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
