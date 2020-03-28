@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:myntra_test_app/blocs/item_detail_bloc.dart';
-import 'package:myntra_test_app/helpers/helper.dart';
-import 'package:myntra_test_app/providers/auth_provider.dart';
-import 'package:myntra_test_app/providers/category_provider.dart';
-import 'package:myntra_test_app/providers/product_provider.dart';
-import 'package:myntra_test_app/providers/products_provider.dart';
-import 'package:myntra_test_app/screens/home_screen.dart';
-import 'package:myntra_test_app/screens/splash_screen.dart';
+import 'package:myntra_test_app/src/core/blocs/item_detail_bloc.dart';
+import 'package:myntra_test_app/src/core/helpers/helper.dart';
+import 'package:myntra_test_app/src/core/view_model/auth_provider.dart';
+import 'package:myntra_test_app/src/core/view_model/category_provider.dart';
+import 'package:myntra_test_app/src/core/view_model/product_provider.dart';
+import 'package:myntra_test_app/src/core/view_model/products_provider.dart';
+import 'package:myntra_test_app/src/ui/view/home_screen.dart';
+import 'package:myntra_test_app/src/ui/view/splash_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
