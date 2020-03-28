@@ -27,10 +27,11 @@ class MyApp extends StatelessWidget {
         // This indicates that we are using Material property in our app
         child: MaterialApp(
           title: 'Flutter Demo',
+          // Defining the global theme of the app
           theme: theme,
           // To disable debug banner
           debugShowCheckedModeBanner: false,
-          // To disable debug banner
+          // Checking the user is authorized or not by wrapping to Consumer
           home: Consumer<AuthProvider>(
             builder: (ctx, authProvider, _) {
               return authProvider.isAuthorized
@@ -46,6 +47,7 @@ class MyApp extends StatelessWidget {
                     );
             },
           ),
+          // Defining the app routes
           routes: {
             HomeScreen.routeName: (ctx) => HomeScreen(),
           },

@@ -14,7 +14,7 @@ A flutter app to showcase online shopping portal using `Provider` architecture. 
 
 # Provider  [![pub package](https://img.shields.io/pub/v/provider.svg)](https://pub.dev/packages/provider)
 
-Among multiple state management in flutter, `Providet` is now more powerful,  flixible and easy to undersand. It has the power of managing state in efficient manager by using  `Consumer` and `Selector` and now it can deals with `Stream` and `Future` also.
+Among multiple state management in flutter, `Provider` is now more powerful,  flixible and easy to undersand. It has the power of managing state in efficient manager by using  `Consumer` and `Selector` and now it can deals with `Stream` and `Future` also.
 
 A mixture between dependency injection (DI) and state management, built with widgets for widgets.
 
